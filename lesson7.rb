@@ -7,6 +7,7 @@ while user_input != 3
   puts "2. Draw a triangle"
   puts "3. Quit"
 
+#user input stored a integer
   print "Enter your selection:"
   user_input = gets.to_i
 
